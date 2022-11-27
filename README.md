@@ -1,1 +1,1 @@
-# stepik_test
+# Repository for the practical task from Stepik
